@@ -1,6 +1,6 @@
 Login
-Username:
-Password:
+Username:Jbperater
+Password:password
 Connect to database
 working na
 
